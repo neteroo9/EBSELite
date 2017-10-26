@@ -1,0 +1,19 @@
+- [iTrader ELite Dev](http://192.168.20.189:3000 "iTrader ELite Dev 3000") on localhost:3000
+- [iTrader ELite Dev](http://192.168.20.189:3001 "iTrader ELite Dev 3001") on localhost:3001
+----------
+- [iTrader ELite Demo fsll.cn](https://www.fsll.cn "iTrader ELite Demo") on demo server(api & wechar mini program)
+- [iTrader ELite Demo](http://115.160.142.248:8080 "iTrader ELite Demo") on demo server(api & wechar mini program)
+- [iTrader ELite 1.3.6](http://115.160.142.248:9992 "iTrader ELite 9992") on demo server(2FA demo)
+----------
+- [iTrader ELite 1.4.1](http://192.168.201.29:3141 "iTrader ELite 1.4.1") on 201.29
+- [iTrader ELite 1.3.11](http://192.168.201.29:31311 "iTrader ELite 1.3.11") on 201.29
+- [iTrader ELite 1.3.10](http://192.168.201.29:31310 "iTrader ELite 1.3.10") on 201.29
+- [iTrader ELite 1.3.9](http://192.168.201.29:3139 "iTrader ELite 1.3.9") on 201.29
+- [iTrader ELite 1.3.8](http://192.168.201.29:3138 "iTrader ELite 1.3.8") on 201.29
+- [iTrader ELite 1.3.7](http://192.168.201.29:3137 "iTrader ELite 1.3.7") on 201.29
+- [iTrader ELite 1.3.6](http://192.168.201.29:3136 "iTrader ELite 1.3.6") on 201.29
+- [iTrader ELite 1.3.5](http://192.168.201.29:3135 "iTrader ELite 1.3.5") on 201.29
+- [iTrader ELite 1.3.4](http://192.168.201.29:3134 "iTrader ELite 1.3.4") on 201.29
+----------
+- [Server Info](http://192.168.20.189/serverinfo.html "server info")
+- [iTrader Elite web task](http://192.168.20.189/Mobile%20Elite%20Web.md.html "iTrader Elite web task")

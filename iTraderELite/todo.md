@@ -12,3 +12,7 @@
 - missed custom query "QueryMargPara" by default
 - invalid sp "sp_oms_set_disclaimer" by default
 - static market data temp folder cannot delete
+----------------------------------------------------------
+
+[2017-10-25 03:17:47]
+- IE not support Number.MIN_SAFE_INTEGER, so use Number.NaN to replace it in the front end. And keep the old logic to use Number.MIN_SAGE_INTEGER. Only market value & accept value use this value.
