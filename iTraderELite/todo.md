@@ -16,3 +16,6 @@
 
 [2017-10-25 03:17:47]
 - IE not support Number.MIN_SAFE_INTEGER, so use Number.NaN to replace it in the front end. And keep the old logic to use Number.MIN_SAGE_INTEGER. Only market value & accept value use this value.
+
+[2017-10-30 06:19:31]
+* [X] ~~*API change password function has issues(debug code passport.user make exception)*~~
