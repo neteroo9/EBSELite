@@ -19,3 +19,12 @@
 
 [2017-10-30 06:19:31]
 * [X] ~~*API change password function has issues(debug code passport.user make exception)*~~
+* [ ] order & position symbol name issues.
+
+[2017-11-03 03:28:28]
+* [ ] all unknow error change to "request timeout"
+
+[2017-11-13 10:01:08]
+* [ ] login by name issues
+* [ ] web scan result fix(headers)
+* [ ] bonf/fund report issues
